@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @tutaysalgir
 - 👀 I’m interested in coding...
 - 🌱 I’m currently learning ASP.NET Core MVC and .NET technologies...
-- 🌎 I'm the owner of Twitter Money Bot
 - 📫 You can contact me at: codegat33@gmail.com
 
 <!---
